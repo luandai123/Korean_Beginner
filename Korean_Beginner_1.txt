@@ -1,0 +1,195 @@
+Lesson	Type	No	Name	Sentences_Kor	Sentences_Phon	Sentences_Viet	FileAudio	FileImage
+Lesson1	Subject	0	Subj	안녕하세요? (Xin chào)				
+Lesson2	Subject	0	Subj	이거는 뭐예요? (Cái này là gì?)				
+Lesson3	Subject	0	Subj	이것은 누구의 가방입니까? (Đây là túi của ai?)				
+Lesson4	Subject	0	Subj	어디에 있어요? (Ở đâu?)				
+Lesson5	Subject	0	Subj	얼마예요? (Bao nhiêu tiền?)				
+Lesson6	Subject	0	Subj	몇 시예요? (Mấy giờ rồi?)				
+Lesson7	Subject	0	Subj	무엇을 합니까? (Làm gì?)				
+Lesson8	Subject	0	Subj	어디에 갑니까? (Đi đâu?)				
+Lesson9	Subject	0	Subj	이분은 누구세요? (Người này là ai?)				
+Lesson10	Subject	0	Subj	지금 몇 시예요? (Bây giờ là mấy giờ?)				
+Lesson11	Subject	0	Subj	감기에 걸렸어요. (Tôi bị cảm lạnh.)				
+Lesson12	Subject	0	Subj	여보세요. (Alo)				
+Lesson13	Subject	0	Subj	서울역으로 가 주세요. (Làm ơn đưa tôi đến ga Seoul.)				
+Lesson14	Subject	0	Subj	이 옷을 입어 보세요. (Hãy thử mặc bộ quần áo này.)				
+Lesson15	Subject	0	Subj	여행을 가고 싶어요. (Tôi muốn đi du lịch.)				
+Lesson16	Subject	0	Subj	우리 집에 올 수 있어요? (Bạn có thể đến nhà tôi không?)				
+Lesson1	Vocabulary	1	Struc	Quốc gia (국가) & Quốc tịch (국적)				
+Lesson1	Vocabulary	1.1	Exam	독일	Đô-gil	 Đức	https://luandai123.github.io/Korean_Beginner/L1Vo1.1.mp3	https://luandai123.github.io/Korean_Beginner/L1Vo1.1.png
+Lesson1	Vocabulary	1.2	Exam	독일 사람	Đô-gil sa-ram	 Người Đức	https://luandai123.github.io/Korean_Beginner/L1Vo1.2.mp3	https://luandai123.github.io/Korean_Beginner/L1Vo1.2.png
+Lesson1	Vocabulary	1.3	Exam	미국	Mi-guk	 Mỹ	https://luandai123.github.io/Korean_Beginner/L1Vo1.3.mp3	https://luandai123.github.io/Korean_Beginner/L1Vo1.3.png
+Lesson1	Vocabulary	1.4	Exam	미국 사람	Mi-guk sa-ram	 Người Mỹ	https://luandai123.github.io/Korean_Beginner/L1Vo1.4.mp3	https://luandai123.github.io/Korean_Beginner/L1Vo1.4.png
+Lesson1	Vocabulary	1.5	Exam	영국	Yông-guk	 Anh Quốc	https://luandai123.github.io/Korean_Beginner/L1Vo1.5.mp3	https://luandai123.github.io/Korean_Beginner/L1Vo1.5.png
+Lesson1	Vocabulary	1.6	Exam	영국 사람	Yông-guk sa-ram	 Người Anh	https://luandai123.github.io/Korean_Beginner/L1Vo1.6.mp3	https://luandai123.github.io/Korean_Beginner/L1Vo1.6.png
+Lesson1	Vocabulary	1.7	Exam	일본	Il-bon	 Nhật Bản	https://luandai123.github.io/Korean_Beginner/L1Vo1.7.mp3	https://luandai123.github.io/Korean_Beginner/L1Vo1.7.png
+Lesson1	Vocabulary	1.8	Exam	일본 사람	Il-bon sa-ram	 Người Nhật Bản	https://luandai123.github.io/Korean_Beginner/L1Vo1.8.mp3	https://luandai123.github.io/Korean_Beginner/L1Vo1.8.png
+Lesson1	Vocabulary	1.9	Exam	중국	Chung-guk	 Trung Quốc	https://luandai123.github.io/Korean_Beginner/L1Vo1.9.mp3	https://luandai123.github.io/Korean_Beginner/L1Vo1.9.png
+Lesson1	Vocabulary	1.10	Exam	중국 사람	Chung-guk sa-ram	 Người Trung Quốc	https://luandai123.github.io/Korean_Beginner/L1Vo1.10.mp3	https://luandai123.github.io/Korean_Beginner/L1Vo1.10.png
+Lesson1	Vocabulary	1.11	Exam	프랑스	Phư-rang-sư	 Pháp	https://luandai123.github.io/Korean_Beginner/L1Vo1.11.mp3	https://luandai123.github.io/Korean_Beginner/L1Vo1.11.png
+Lesson1	Vocabulary	1.12	Exam	프랑스 사람	Phư-rang-sư sa-ram	 Người Pháp	https://luandai123.github.io/Korean_Beginner/L1Vo1.12.mp3	https://luandai123.github.io/Korean_Beginner/L1Vo1.12.png
+Lesson1	Vocabulary	1.13	Exam	한국	Han-guk	 Hàn Quốc	https://luandai123.github.io/Korean_Beginner/L1Vo1.13.mp3	https://luandai123.github.io/Korean_Beginner/L1Vo1.13.png
+Lesson1	Vocabulary	1.14	Exam	한국 사람	Han-guk sa-ram	 Người Hàn Quốc	https://luandai123.github.io/Korean_Beginner/L1Vo1.14.mp3	https://luandai123.github.io/Korean_Beginner/L1Vo1.14.png
+Lesson1	Vocabulary	1.15	Exam	호주	Hô-ju	 Úc	https://luandai123.github.io/Korean_Beginner/L1Vo1.15.mp3	https://luandai123.github.io/Korean_Beginner/L1Vo1.15.png
+Lesson1	Vocabulary	1.16	Exam	호주 사람	Hô-ju sa-ram	 Người Úc	https://luandai123.github.io/Korean_Beginner/L1Vo1.16.mp3	https://luandai123.github.io/Korean_Beginner/L1Vo1.16.png
+Lesson1	Vocabulary	1.17	Exam	캐나다	Khae-na-da	 Canada	https://luandai123.github.io/Korean_Beginner/L1Vo1.17.mp3	https://luandai123.github.io/Korean_Beginner/L1Vo1.17.png
+Lesson1	Vocabulary	1.18	Exam	인도	In-đô	 Ấn Độ	https://luandai123.github.io/Korean_Beginner/L1Vo1.18.mp3	https://luandai123.github.io/Korean_Beginner/L1Vo1.18.png
+Lesson1	Vocabulary	1.19	Exam	러시아	Rơ-si-a	 Nga	https://luandai123.github.io/Korean_Beginner/L1Vo1.19.mp3	https://luandai123.github.io/Korean_Beginner/L1Vo1.19.png
+Lesson1	Vocabulary	1.20	Exam	파키스탄	Pha-khi-sư-than	 Pakistan	https://luandai123.github.io/Korean_Beginner/L1Vo1.20.mp3	https://luandai123.github.io/Korean_Beginner/L1Vo1.20.png
+Lesson1	Vocabulary	2	Struc	Nghề nghiệp (직업)				
+Lesson1	Vocabulary	2.1	Exam	가수	Ka-su	 Ca sỹ	https://luandai123.github.io/Korean_Beginner/L1Vo2.1.mp3	https://luandai123.github.io/Korean_Beginner/L1Vo2.1.png
+Lesson1	Vocabulary	2.2	Exam	군인	Ku-nin	 Quân nhân, bộ đội	https://luandai123.github.io/Korean_Beginner/L1Vo2.2.mp3	https://luandai123.github.io/Korean_Beginner/L1Vo2.2.png
+Lesson1	Vocabulary	2.3	Exam	기자	Ki-ja	 Nhà báo, phóng viên	https://luandai123.github.io/Korean_Beginner/L1Vo2.3.mp3	https://luandai123.github.io/Korean_Beginner/L1Vo2.3.png
+Lesson1	Vocabulary	2.4	Exam	선생님	Sôn-seng-nim	 Giáo viên	https://luandai123.github.io/Korean_Beginner/L1Vo2.4.mp3	https://luandai123.github.io/Korean_Beginner/L1Vo2.4.png
+Lesson1	Vocabulary	2.5	Exam	요리사	Yô-ri-sa	 Đầu bếp	https://luandai123.github.io/Korean_Beginner/L1Vo2.5.mp3	https://luandai123.github.io/Korean_Beginner/L1Vo2.5.png
+Lesson1	Vocabulary	2.6	Exam	의사	Ưi-sa	 Bác sĩ	https://luandai123.github.io/Korean_Beginner/L1Vo2.6.mp3	https://luandai123.github.io/Korean_Beginner/L1Vo2.6.png
+Lesson1	Vocabulary	2.7	Exam	학생	Hak-seng	 Học sinh	https://luandai123.github.io/Korean_Beginner/L1Vo2.7.mp3	https://luandai123.github.io/Korean_Beginner/L1Vo2.7.png
+Lesson1	Vocabulary	2.8	Exam	회사원	Hôi-sa-uôn	 Nhân viên công ty	https://luandai123.github.io/Korean_Beginner/L1Vo2.8.mp3	https://luandai123.github.io/Korean_Beginner/L1Vo2.8.png
+Lesson1	Vocabulary	2.9	Exam	주부	Chu-bu	 Nội trợ	https://luandai123.github.io/Korean_Beginner/L1Vo2.9.mp3	https://luandai123.github.io/Korean_Beginner/L1Vo2.9.png
+Lesson1	Grammar	1	Struc	인사말 (Lời chào hỏi)				
+Lesson1	Grammar	1.1	Exam	안녕하세요?	An-nhông-ha-sê-yô?	Xin chào (thông thường)	https://luandai123.github.io/Korean_Beginner/L1Gr1.1.mp3	
+Lesson1	Grammar	1.2	Exam	안녕하십니까?	An-nhông-ha-sim-ni-kka?	Xin chào (trang trọng)	https://luandai123.github.io/Korean_Beginner/L1Gr1.2.mp3	
+Lesson1	Grammar	1.3	Exam	(만나서) 반가워요	(Man-na-sơ) pan-ga-uô-yô	Rất vui được gặp bạn (thông thường)	https://luandai123.github.io/Korean_Beginner/L1Gr1.3.mp3	
+Lesson1	Grammar	1.4	Exam	만나서 반갑습니다	Man-na-sơ pan-gap-sưm-ni-da	Rất hân hạnh được gặp bạn (trang trọng)	https://luandai123.github.io/Korean_Beginner/L1Gr1.4.mp3	
+Lesson1	Grammar	1.5	Exam	안녕히 계세요	An-nhông-hi kê-sê-yô	Tạm biệt - người ở lại	https://luandai123.github.io/Korean_Beginner/L1Gr1.5.mp3	
+Lesson1	Grammar	1.6	Exam	안녕히 가세요	An-nhông-hi ka-sê-yô	Tạm biệt - người ra về	https://luandai123.github.io/Korean_Beginner/L1Gr1.6.mp3	
+Lesson1	Grammar	2	Struc	N은/는 N이에요/예요 (N1 là N2)				
+Lesson1	Grammar	-	Def	Cấu trúc dùng để giới thiệu chủ đề của câu hoặc nhận dạng chủ ngữ trong các tình huống không trang trọng (thân mật, lịch sự).				
+Lesson1	Grammar	-	Form	Danh từ có phụ âm cuối (bachim) + -은 / -이에, Danh từ không có phụ âm cuối (không bachim) + -는 / -예요.				
+Lesson1	Grammar	-	Usa	Thường dùng để giới thiệu bản thân, tên tuổi, hoặc quốc tịch khi giao tiếp thông thường. Khi đặt câu hỏi, ngữ điệu sẽ lên cao ở cuối câu.				
+Lesson1	Grammar	2.1	Exam	저는 나나예요.	Chơ-nưn Na-na-yê-yô.	Tôi là Nana.	https://luandai123.github.io/Korean_Beginner/L1Gr2.1.mp3	
+Lesson1	Grammar	2.2	Exam	저는 학생이에요.	Chơ-nưn hak-seng-i-e-yô.	Tôi là học sinh.	https://luandai123.github.io/Korean_Beginner/L1Gr2.2.mp3	
+Lesson1	Grammar	2.3	Exam	스티븐은 미국 사람이에요.	Sư-thi-bưn-ưn Mi-guk sa-ra-mi-e-yô.	Steven là người Mỹ.	https://luandai123.github.io/Korean_Beginner/L1Gr2.3.mp3	
+Lesson1	Grammar	2.4	Exam	마이클은 기자예요.	Ma-i-khư-rưn ki-ja-yê-yô.	Michael là nhà báo.	https://luandai123.github.io/Korean_Beginner/L1Gr2.4.mp3	
+Lesson1	Grammar	2.5	Exam	여기는 서울대학교예요.	Yơ-gi-nưn Sơ-ul Dae-hak-kyo-yê-yô.	Đây là trường Đại học Quốc gia Seoul.	https://luandai123.github.io/Korean_Beginner/L1Gr2.5.mp3	
+Lesson1	Grammar	2.6	Exam	제 이름은 김민수예요.	Chê i-rư-mưn Kim Min-su-yê-yô.	Tên tôi là Kim Min-su.	https://luandai123.github.io/Korean_Beginner/L1Gr2.6.mp3	
+Lesson1	Grammar	2.7	Exam	이분은 선생님이에요.	I-bu-nưn sôn-seng-nim-i-e-yô.	Vị này là giáo viên.	https://luandai123.github.io/Korean_Beginner/L1Gr2.7.mp3	
+Lesson1	Grammar	2.8	Exam	민수 씨는 한국 사람이에요.	Min-su ssi-nưn Han-guk sa-ra-mi-e-yô.	Min-su là người Hàn Quốc.	https://luandai123.github.io/Korean_Beginner/L1Gr2.8.mp3	
+Lesson1	Grammar	3	Struc	N입니까?, N입니다  (Là N phải không? / Là N.)				
+Lesson1	Grammar	-	Def	Cấu trúc dùng để hỏi hoặc khẳng định về danh tính/trạng thái của chủ ngữ trong các tình huống trang trọng.				
+Lesson1	Grammar	-	Form	Câu hỏi: Danh từ + -입니까?Câu trần thuật: Danh từ + -입니다.				
+Lesson1	Grammar	-	Usa	Dùng trong các hoàn cảnh lễ nghi, chính thức (như phỏng vấn, tin tức, quân đội) hoặc lần đầu gặp mặt trang trọng.				
+Lesson1	Grammar	3.1	Exam	학생입니까?	Hak-seng-im-ni-kka?	Bạn là học sinh phải không?	https://luandai123.github.io/Korean_Beginner/L1Gr3.1.mp3	
+Lesson1	Grammar	3.2	Exam	네, 학생입니다.	Nê, hak-seng-im-ni-da.	Vâng, tôi là học sinh.	https://luandai123.github.io/Korean_Beginner/L1Gr3.2.mp3	
+Lesson1	Grammar	3.3	Exam	미국 사람입니까?	Mi-guk sa-ra-mim-ni-kka?	Bạn là người Mỹ phải không?	https://luandai123.github.io/Korean_Beginner/L1Gr3.3.mp3	
+Lesson1	Grammar	3.4	Exam	아니요, 영국 사람입니다.	A-ni-yô, Yông-guk sa-ra-mim-ni-da.	Không, tôi là người Anh.	https://luandai123.github.io/Korean_Beginner/L1Gr3.4.mp3	
+Lesson1	Grammar	3.5	Exam	직업이 무엇입니까?	Chi-gơ-bi mu-ô-sim-ni-kka?	Nghề nghiệp của bạn là gì?	https://luandai123.github.io/Korean_Beginner/L1Gr3.5.mp3	
+Lesson1	Grammar	3.6	Exam	저는 회사원입니다.	Chơ-nưn hôi-sa-uôn-im-ni-da.	Tôi là nhân viên văn phòng.	https://luandai123.github.io/Korean_Beginner/L1Gr3.6.mp3	
+Lesson1	Grammar	4	Struc	N이/가 아닙니다 (Không phải là N)				
+Lesson1	Grammar	-	Def	Cấu trúc dùng để phủ định một sự thật hoặc danh tính nào đó của chủ ngữ trong tình huống trang trọng.				
+Lesson1	Grammar	-	Form	Danh từ có phụ âm cuối (bachim) + -이 아닙니다Danh từ không có phụ âm cuối (không bachim) + -가 아닙니다.				
+Lesson1	Grammar	-	Usa	Dùng để nói "không phải là..." một cách lịch sự và trang trọng.				
+Lesson1	Grammar	4.1	Exam	저는 학생이 아닙니다.	Chơ-nưn hak-seng-i a-nim-ni-da.	Tôi không phải là học sinh.	https://luandai123.github.io/Korean_Beginner/L1Gr4.1.mp3	
+Lesson1	Grammar	4.2	Exam	이것은 제 책이 아닙니다.	I-gơ-sưn chê chae-gi a-nim-ni-da.	Cái này không phải là sách của tôi.	https://luandai123.github.io/Korean_Beginner/L1Gr4.2.mp3	
+Lesson1	Grammar	4.3	Exam	여기는 회사가 아닙니다.	Yơ-gi-nưn hôi-sa-ga a-nim-ni-da.	Đây không phải là công ty.	https://luandai123.github.io/Korean_Beginner/L1Gr4.3.mp3	
+Lesson1	Grammar	4.4	Exam	스티븐 씨는 의사가 아닙니다.	Sư-thi-bưn ssi-nưn ưi-sa-ga a-nim-ni-da.	Steven không phải là bác sĩ.	https://luandai123.github.io/Korean_Beginner/L1Gr4.4.mp3	
+Lesson1	Grammar	4.5	Exam	그 사람은 제 동생이 아닙니다.	Kư sa-ra-mưn chê đông-seng-i a-nim-ni-da.	Người đó không phải là em tôi.	https://luandai123.github.io/Korean_Beginner/L1Gr4.5.mp3	
+Lesson1	Grammar	4.6	Exam	이분은 일본 사람이 아닙니다.	I-bu-nưn Il-bon sa-ra-mi a-nim-ni-da.	Vị này không phải là người Nhật Bản.	https://luandai123.github.io/Korean_Beginner/L1Gr4.6.mp3	
+Lesson1	Grammar	4.7	Exam	저는 선생님이 아닙니다.	Chơ-nưn sôn-seng-nim-i a-nim-ni-da.	Tôi không phải là giáo viên.	https://luandai123.github.io/Korean_Beginner/L1Gr4.7.mp3	
+Lesson1	Grammar	4.8	Exam	여기는 도서관이 아닙니다.	Yơ-gi-nưn tô-sơ-gwa-ni a-nim-ni-da.	Đây không phải là thư viện.	https://luandai123.github.io/Korean_Beginner/L1Gr4.8.mp3	
+Lesson1	Speaking	1	Struc	Speaking 1				
+Lesson1	Speaking	1.1	Exam	안녕하세요? 저는 나나예요.	An-nhông-ha-sê-yô? Chơ-nưn Na-na-yê-yô.	Xin chào. Mình là Nana.	https://luandai123.github.io/Korean_Beginner/L1Sp1.1.mp3	
+Lesson1	Speaking	1.2	Exam	안녕하세요? 저는 마이클이에요.	An-nhông-ha-sê-yô? Chơ-nưn Ma-i-khư-ri-e-yô.	Xin chào. Mình là Michael.	https://luandai123.github.io/Korean_Beginner/L1Sp1.2.mp3	
+Lesson1	Speaking	1.3	Exam	만나서 반가워요, 마이클 씨.	Man-na-sơ pan-ga-uô-yô, Ma-i-khưl ssi.	Rất vui được gặp bạn, Michael.	https://luandai123.github.io/Korean_Beginner/L1Sp1.3.mp3	
+Lesson1	Speaking	1.4	Exam	반가워요. 나나 씨는 어느 나라 사람이에요?	Pan-ga-uô-yô. Na-na ssi-nưn ô-nư na-ra sa-ra-mi-e-yô?	Rất vui được gặp bạn. Nana là người nước nào?	https://luandai123.github.io/Korean_Beginner/L1Sp1.4.mp3	
+Lesson1	Speaking	1.5	Exam	저는 중국 사람이에요.	Chơ-nưn Chung-guk sa-ra-mi-e-yô.	Mình là người Trung Quốc.	https://luandai123.github.io/Korean_Beginner/L1Sp1.5.mp3	
+Lesson1	Speaking	2	Struc	Speaking 2				
+Lesson1	Speaking	2.1	Exam	여러분, 만나서 반갑습니다. 저는 마이클입니다.	Yơ-rô-bun, man-na-sơ pan-gap-sưm-ni-da. Chơ-nưn Ma-i-khưl im-ni-da.	Mọi người, rất vui được gặp mọi người. Tôi là Michael.	https://luandai123.github.io/Korean_Beginner/L1Sp2.1.mp3	
+Lesson1	Speaking	2.2	Exam	안녕하세요? 마이클 씨는 미국 사람입니까?	An-nhông-ha-sê-yô? Ma-i-khưl ssi-nưn Mi-guk sa-ra-mim-ni-kka?	Xin chào. Anh Michael có phải là người Mỹ không?	https://luandai123.github.io/Korean_Beginner/L1Sp2.2.mp3	
+Lesson1	Speaking	2.3	Exam	아니요, 저는 미국 사람이 아닙니다. 영국 사람입니다.	A-ni-yô, chơ-nưn Mi-guk sa-ra-mi a-nim-ni-da. Yông-guk sa-ra-mim-ni-da.	Không. Tôi không phải là người Mỹ. Tôi là người Anh.	https://luandai123.github.io/Korean_Beginner/L1Sp2.3.mp3	
+Lesson1	Speaking	2.4	Exam	아, 네. 직업은 무엇입니까?	A, nê. Chi-gơ-bưn mu-ô-sim-ni-kka?	À, vâng. Nghề nghiệp của anh là gì?	https://luandai123.github.io/Korean_Beginner/L1Sp2.4.mp3	
+Lesson1	Speaking	2.5	Exam	기자입니다.	Ki-ja im-ni-da.	Tôi là nhà báo / phóng viên.	https://luandai123.github.io/Korean_Beginner/L1Sp2.5.mp3	
+Lesson2	Vocabulary	1	Struc	Đồ dùng học tập (학용품)				
+Lesson2	Vocabulary	1.1	Exam	책	Chaek	Sách	https://luandai123.github.io/Korean_Beginner/L2Vo1.1.mp3	https://luandai123.github.io/Korean_Beginner/L2Vo1.1.png
+Lesson2	Vocabulary	1.2	Exam	공책	Kong-chaek	Vở	https://luandai123.github.io/Korean_Beginner/L2Vo1.2.mp3	https://luandai123.github.io/Korean_Beginner/L2Vo1.2.png
+Lesson2	Vocabulary	1.3	Exam	사전	Sa-chơn	Từ điển	https://luandai123.github.io/Korean_Beginner/L2Vo1.3.mp3	https://luandai123.github.io/Korean_Beginner/L2Vo1.3.png
+Lesson2	Vocabulary	1.4	Exam	전자사전	Chơn-ja-sa-chơn	Từ điển điện tử	https://luandai123.github.io/Korean_Beginner/L2Vo1.4.mp3	https://luandai123.github.io/Korean_Beginner/L2Vo1.4.png
+Lesson2	Vocabulary	1.5	Exam	잡지	Chap-chi	Tạp chí	https://luandai123.github.io/Korean_Beginner/L2Vo1.5.mp3	https://luandai123.github.io/Korean_Beginner/L2Vo1.5.png
+Lesson2	Vocabulary	1.6	Exam	신문	Sin-mun	Tờ báo	https://luandai123.github.io/Korean_Beginner/L2Vo1.6.mp3	https://luandai123.github.io/Korean_Beginner/L2Vo1.6.png
+Lesson2	Vocabulary	1.7	Exam	볼펜	Bôl-phen	Bút bi	https://luandai123.github.io/Korean_Beginner/L2Vo1.7.mp3	https://luandai123.github.io/Korean_Beginner/L2Vo1.7.png
+Lesson2	Vocabulary	1.8	Exam	연필	Yôn-phil	Bút chì	https://luandai123.github.io/Korean_Beginner/L2Vo1.8.mp3	https://luandai123.github.io/Korean_Beginner/L2Vo1.8.png
+Lesson2	Vocabulary	1.9	Exam	지우개	Chi-u-gae	Cục tẩy	https://luandai123.github.io/Korean_Beginner/L2Vo1.9.mp3	https://luandai123.github.io/Korean_Beginner/L2Vo1.9.png
+Lesson2	Vocabulary	1.10	Exam	필통	Phil-thong	Hộp bút	https://luandai123.github.io/Korean_Beginner/L2Vo1.10.mp3	https://luandai123.github.io/Korean_Beginner/L2Vo1.10.png
+Lesson2	Vocabulary	1.11	Exam	지도	Chi-đô	Bản đồ	https://luandai123.github.io/Korean_Beginner/L2Vo1.11.mp3	https://luandai123.github.io/Korean_Beginner/L2Vo1.11.png
+Lesson2	Vocabulary	2	Struc	Vật dụng sinh hoạt hằng ngày (일상 생활용품)				
+Lesson2	Vocabulary	2.1	Exam	가방	Ka-bang	Cặp, túi xách	https://luandai123.github.io/Korean_Beginner/L2Vo2.1.mp3	https://luandai123.github.io/Korean_Beginner/L2Vo2.1.png
+Lesson2	Vocabulary	2.2	Exam	지갑	Chi-gap	Cái ví	https://luandai123.github.io/Korean_Beginner/L2Vo2.2.mp3	https://luandai123.github.io/Korean_Beginner/L2Vo2.2.png
+Lesson2	Vocabulary	2.3	Exam	우산	U-san	Ô, dù	https://luandai123.github.io/Korean_Beginner/L2Vo2.3.mp3	https://luandai123.github.io/Korean_Beginner/L2Vo2.3.png
+Lesson2	Vocabulary	2.4	Exam	모자	Mô-ja	Mũ	https://luandai123.github.io/Korean_Beginner/L2Vo2.4.mp3	https://luandai123.github.io/Korean_Beginner/L2Vo2.4.png
+Lesson2	Vocabulary	2.5	Exam	시계	Si-gye	Đồng hồ	https://luandai123.github.io/Korean_Beginner/L2Vo2.5.mp3	https://luandai123.github.io/Korean_Beginner/L2Vo2.5.png
+Lesson2	Vocabulary	2.6	Exam	휴대폰	Hyu-dae-phon	Điện thoại di động	https://luandai123.github.io/Korean_Beginner/L2Vo2.6.mp3	https://luandai123.github.io/Korean_Beginner/L2Vo2.6.png
+Lesson2	Vocabulary	2.7	Exam	카메라	Kha-me-ra	Máy ảnh	https://luandai123.github.io/Korean_Beginner/L2Vo2.7.mp3	https://luandai123.github.io/Korean_Beginner/L2Vo2.7.png
+Lesson2	Vocabulary	2.8	Exam	교통카드	Kyo-thong-kha-dư	Thẻ giao thông	https://luandai123.github.io/Korean_Beginner/L2Vo2.8.mp3	https://luandai123.github.io/Korean_Beginner/L2Vo2.8.png
+Lesson2	Vocabulary	2.9	Exam	휴지	Hyu-ji	Giấy vệ sinh, giấy ăn	https://luandai123.github.io/Korean_Beginner/L2Vo2.9.mp3	https://luandai123.github.io/Korean_Beginner/L2Vo2.9.png
+Lesson2	Vocabulary	2.10	Exam	동전	Đông-chơn	Tiền xu	https://luandai123.github.io/Korean_Beginner/L2Vo2.10.mp3	https://luandai123.github.io/Korean_Beginner/L2Vo2.10.png
+Lesson2	Vocabulary	3	Struc	Đồ đạc và thiết bị trong phòng (가구 & 가전제품)				
+Lesson2	Vocabulary	3.1	Exam	책상	Chaek-sang	Bàn	https://luandai123.github.io/Korean_Beginner/L2Vo3.1.mp3	https://luandai123.github.io/Korean_Beginner/L2Vo3.1.png
+Lesson2	Vocabulary	3.2	Exam	의자	Ưi-ja	Ghế	https://luandai123.github.io/Korean_Beginner/L2Vo3.2.mp3	https://luandai123.github.io/Korean_Beginner/L2Vo3.2.png
+Lesson2	Vocabulary	3.3	Exam	침대	Chim-dae	Giường	https://luandai123.github.io/Korean_Beginner/L2Vo3.3.mp3	https://luandai123.github.io/Korean_Beginner/L2Vo3.3.png
+Lesson2	Vocabulary	3.4	Exam	방	Bang	Phòng	https://luandai123.github.io/Korean_Beginner/L2Vo3.4.mp3	https://luandai123.github.io/Korean_Beginner/L2Vo3.4.png
+Lesson2	Vocabulary	3.5	Exam	창문	Chang-mun	Cửa sổ	https://luandai123.github.io/Korean_Beginner/L2Vo3.5.mp3	https://luandai123.github.io/Korean_Beginner/L2Vo3.5.png
+Lesson2	Vocabulary	3.6	Exam	컴퓨터	Khơm-pyu-thơ	Máy vi tính	https://luandai123.github.io/Korean_Beginner/L2Vo3.6.mp3	https://luandai123.github.io/Korean_Beginner/L2Vo3.6.png
+Lesson2	Vocabulary	3.7	Exam	냉장고	Naeng-jang-gô	Tủ lạnh	https://luandai123.github.io/Korean_Beginner/L2Vo3.7.mp3	https://luandai123.github.io/Korean_Beginner/L2Vo3.7.png
+Lesson2	Vocabulary	3.8	Exam	에어컨	E-ô-khơn	Điều hòa	https://luandai123.github.io/Korean_Beginner/L2Vo3.8.mp3	https://luandai123.github.io/Korean_Beginner/L2Vo3.8.png
+Lesson2	Grammar	1	Struc	이거는[그거는, 저거는] N이에요/예요 (Cái này [Cái đó, Cái kia] là N)				
+Lesson2	Grammar	-	Def	Cấu trúc dùng đại từ chỉ định kết hợp với tiểu từ chủ ngữ và đuôi câu thân mật để chỉ vào các vật ở các vị trí khác nhau so với người nói và người nghe.				
+Lesson2	Grammar	-	Form	• 이거 (Cái này) + 는...: Gần người nói.• 그거 (Cái đó) + 는...: Gần người nghe.• 저거 (Cái kia) + 는...: Xa cả người nói và người nghe.				
+Lesson2	Grammar	-	Usa	Dùng để định danh đồ vật dựa trên khoảng cách. Trong văn nói, '이거는' thường được nói tắt thành '이건' (tương tự: 그거는 -> 그건, 저거는 -> 저건).				
+Lesson2	Grammar	1.1	Exam	이거는 뭐예요?	I-gơ-nưn muô-yê-yô?	Cái này là cái gì?	https://luandai123.github.io/Korean_Beginner/L2Gr1.1.mp3	
+Lesson2	Grammar	1.2	Exam	그거는 시계예요.	Kư-gơ-nưn si-gye-yê-yô.	Cái đó là đồng hồ.	https://luandai123.github.io/Korean_Beginner/L2Gr1.2.mp3	
+Lesson2	Grammar	1.3	Exam	저거는 지도예요.	Chơ-gơ-nưn chi-đô-yê-yô.	Cái kia là bản đồ.	https://luandai123.github.io/Korean_Beginner/L2Gr1.3.mp3	
+Lesson2	Grammar	1.4	Exam	이거는 한국어 책이에요.	I-gơ-nưn Han-gu-gơ chae-gi-e-yô.	Cái này là sách tiếng Hàn.	https://luandai123.github.io/Korean_Beginner/L2Gr1.4.mp3	
+Lesson2	Grammar	1.5	Exam	그거는 제 가방이에요.	Kư-gơ-nưn chê ka-bang-i-e-yô.	Cái đó là cặp sách của tôi.	https://luandai123.github.io/Korean_Beginner/L2Gr1.5.mp3	
+Lesson2	Grammar	1.6	Exam	저거는 모자예요.	Chơ-gơ-nưn mô-ja-yê-yô.	Cái kia là cái mũ.	https://luandai123.github.io/Korean_Beginner/L2Gr1.6.mp3	
+Lesson2	Grammar	1.7	Exam	이거는 펜이에요.	I-gơ-nưn phen-i-e-yô.	Cái này là cái bút.	https://luandai123.github.io/Korean_Beginner/L2Gr1.7.mp3	
+Lesson2	Grammar	1.8	Exam	그거는 사전이에요.	Kư-gơ-nưn sa-chơ-ni-e-yô.	Cái đó là từ điển.	https://luandai123.github.io/Korean_Beginner/L2Gr1.8.mp3	
+Lesson2	Grammar	2	Struc	N이/가 있어요 [없어요] (Có [Không có] N)				
+Lesson2	Grammar	-	Def	Cấu trúc dùng để diễn tả sự sở hữu (ai đó có/không có cái gì) hoặc sự tồn tại (ở một vị trí nào đó có/không có người hoặc vật).				
+Lesson2	Grammar	-	Form	• Danh từ có phụ âm cuối (bachim) + -이 있어요/없어요• Danh từ không có phụ âm cuối (không bachim) + -가 있어요/없어요				
+Lesson2	Grammar	-	Usa	Dùng để nói về việc sở hữu đồ vật. Trong giao tiếp đời sống hàng ngày, các tiểu từ chủ ngữ 이/가 thường xuyên được người Hàn lược bỏ.				
+Lesson2	Grammar	2.1	Exam	우산이 있어요?	U-sa-ni i-sơ-yô?	Bạn có ô không?	https://luandai123.github.io/Korean_Beginner/L2Gr2.1.mp3	
+Lesson2	Grammar	2.2	Exam	네, 우산이 있어요.	Nê, u-sa-ni i-sơ-yô.	Vâng, tôi có ô.	https://luandai123.github.io/Korean_Beginner/L2Gr2.2.mp3	
+Lesson2	Grammar	2.3	Exam	한국어 사전이 없어요.	Han-gu-gơ sa-chơ-ni ơp-sơ-yô.	Tôi không có từ điển tiếng Hàn.	https://luandai123.github.io/Korean_Beginner/L2Gr2.3.mp3	
+Lesson2	Grammar	2.4	Exam	지금 돈이 없어요.	Chi-gưm tô-ni ơp-sơ-yô.	Bây giờ tôi không có tiền.	https://luandai123.github.io/Korean_Beginner/L2Gr2.4.mp3	
+Lesson2	Grammar	2.5	Exam	교실에 시계가 있어요.	Kyo-si-rê si-gye-ga i-sơ-yô.	Trong phòng học có đồng hồ.	https://luandai123.github.io/Korean_Beginner/L2Gr2.5.mp3	
+Lesson2	Grammar	2.6	Exam	방에 침대가 있어요.	Bang-ê chim-dae-ga i-sơ-yô.	Trong phòng có giường.	https://luandai123.github.io/Korean_Beginner/L2Gr2.6.mp3	
+Lesson2	Grammar	2.7	Exam	가방 안에 책이 있어요.	Ka-bang a-nê chae-gi i-sơ-yô.	Trong cặp có sách.	https://luandai123.github.io/Korean_Beginner/L2Gr2.7.mp3	
+Lesson2	Grammar	2.8	Exam	질문이 있어요.	Chil-mu-ni i-sơ-yô.	Tôi có câu hỏi.	https://luandai123.github.io/Korean_Beginner/L2Gr2.8.mp3	
+Lesson2	Grammar	3	Struc	N 주세요 (Hãy cho tôi N / Làm ơn cho tôi N)				
+Lesson2	Grammar	-	Def	Cấu trúc dùng để yêu cầu, đề nghị người khác đưa cho mình một cái gì đó một cách lịch sự.				
+Lesson2	Grammar	-	Form	Danh từ (N) + 주세요 (Không phân biệt danh từ có phụ âm cuối hay không).				
+Lesson2	Grammar	-	Usa	Thường dùng khi mua sắm, gọi món ăn tại nhà hàng hoặc nhờ vả ai đó đưa đồ vật. Có thể thêm từ '좀' (một chút) vào trước 주세요 để câu nói nhẹ nhàng hơn.				
+Lesson2	Grammar	3.1	Exam	볼펜 주세요.	Bôl-phen chu-sê-yô.	Hãy cho tôi cái bút bi.	https://luandai123.github.io/Korean_Beginner/L2Gr3.1.mp3	
+Lesson2	Grammar	3.2	Exam	이거 주세요.	I-gơ chu-sê-yô.	Hãy cho tôi cái này.	https://luandai123.github.io/Korean_Beginner/L2Gr3.2.mp3	
+Lesson2	Grammar	3.3	Exam	물 좀 주세요.	Mul chôm chu-sê-yô.	Làm ơn cho tôi chút nước.	https://luandai123.github.io/Korean_Beginner/L2Gr3.3.mp3	
+Lesson2	Grammar	3.4	Exam	밥 주세요.	Bap chu-sê-yô.	Hãy cho tôi cơm.	https://luandai123.github.io/Korean_Beginner/L2Gr3.4.mp3	
+Lesson2	Grammar	3.5	Exam	김밥 주세요.	Kim-bap chu-sê-yô.	Hãy cho tôi kimbap.	https://luandai123.github.io/Korean_Beginner/L2Gr3.5.mp3	
+Lesson2	Grammar	3.6	Exam	사과 주세요.	Sa-gua chu-sê-yô.	Hãy cho tôi táo.	https://luandai123.github.io/Korean_Beginner/L2Gr3.6.mp3	
+Lesson2	Grammar	3.7	Exam	커피 주세요.	Khơ-phi chu-sê-yô.	Hãy cho tôi cà phê.	https://luandai123.github.io/Korean_Beginner/L2Gr3.7.mp3	
+Lesson2	Grammar	3.8	Exam	저 모자 주세요.	Chơ mô-ja chu-sê-yô.	Hãy cho tôi cái mũ kia.	https://luandai123.github.io/Korean_Beginner/L2Gr3.8.mp3	
+Lesson2	Grammar	4	Struc	N하고 N, N과/와 N (N và N / N với N)				
+Lesson2	Grammar	-	Def	Cấu trúc dùng để nối hai hoặc nhiều danh từ với nhau, mang ý nghĩa liệt kê hoặc cùng thực hiện một hành động nào đó.				
+Lesson2	Grammar	-	Form	• N + 하고 + N: Dùng phổ biến trong văn nói, giao tiếp hàng ngày (không phân biệt phụ âm cuối).• N có phụ âm cuối + 과 + N• N không có phụ âm cuối + 와 + N (Cấu trúc 과/와 dùng nhiều trong văn viết, phát biểu trang trọng).				
+Lesson2	Grammar	-	Usa	Dùng khi liệt kê các sự vật, sự việc hoặc chỉ đối tượng cùng tham gia hành động. Khi dịch sang tiếng Việt có thể hiểu là "và" hoặc "với/cùng với".				
+Lesson2	Grammar	4.1	Exam	빵하고 우유를 먹어요.	Ppang-ha-gô u-yu-rưl mơ-gơ-yô.	Tôi ăn bánh mì và sữa.	https://luandai123.github.io/Korean_Beginner/L2Gr4.1.mp3	
+Lesson2	Grammar	4.2	Exam	책상하고 의자가 있어요.	Chaek-sang-ha-gô ưi-ja-ga i-sơ-yô.	Có bàn và ghế.	https://luandai123.github.io/Korean_Beginner/L2Gr4.2.mp3	
+Lesson2	Grammar	4.3	Exam	선생님과 학생이 있어요.	Sôn-seng-ni-mgwa hak-seng-i i-sơ-yô.	Có giáo viên và học sinh.	https://luandai123.github.io/Korean_Beginner/L2Gr4.3.mp3	
+Lesson2	Grammar	4.4	Exam	친구와 영화를 봐요.	Chin-gu-wa yông-hwa-rưl bwa-yô.	Tôi xem phim cùng bạn.	https://luandai123.github.io/Korean_Beginner/L2Gr4.4.mp3	
+Lesson2	Grammar	4.5	Exam	사과하고 오렌지를 샀어요.	Sa-gua-ha-gô ô-ren-ji-rưl sa-sơ-yô.	Tôi đã mua táo và cam.	https://luandai123.github.io/Korean_Beginner/L2Gr4.5.mp3	
+Lesson2	Grammar	4.6	Exam	가방과 모자를 주세요.	Ka-bang-gwa mô-ja-rưl chu-sê-yô.	Hãy cho tôi túi xách và mũ.	https://luandai123.github.io/Korean_Beginner/L2Gr4.6.mp3	
+Lesson2	Grammar	4.7	Exam	신문하고 잡지가 있어요.	Sin-mun-ha-gô chap-chi-ga i-sơ-yô.	Có báo và tạp chí.	https://luandai123.github.io/Korean_Beginner/L2Gr4.7.mp3	
+Lesson2	Grammar	4.8	Exam	스티븐 씨와 이야기해요.	Sư-thi-bưn ssi-wa i-ya-gi-hae-yô.	Tôi nói chuyện với Steven.	https://luandai123.github.io/Korean_Beginner/L2Gr4.8.mp3	
+Lesson2	Speaking	1	Struc	Speaking 1				
+Lesson2	Speaking	1.1	Exam	전자사전 있어요?	Chơn-ja-sa-chơ-ni i-sơ-yô?	Có từ điển điện tử không ạ?	https://luandai123.github.io/Korean_Beginner/L2Sp1.1.mp3	
+Lesson2	Speaking	1.2	Exam	아니요, 없어요.	A-ni-yô, ơp-sơ-yô.	Không, không có.	https://luandai123.github.io/Korean_Beginner/L2Sp1.2.mp3	
+Lesson2	Speaking	1.3	Exam	이거는 한국어로 뭐예요?	I-gơ-nưn Han-gu-gơ-rô muô-yê-yô?	Cái này tiếng Hàn gọi là gì ạ?	https://luandai123.github.io/Korean_Beginner/L2Sp1.3.mp3	
+Lesson2	Speaking	1.4	Exam	자예요.	Ja-yê-yô.	Là cây thước.	https://luandai123.github.io/Korean_Beginner/L2Sp1.4.mp3	
+Lesson2	Speaking	1.5	Exam	저거는 연필이에요?	Chơ-gơ-nưn yôn-pi-ri-e-yô?	Cái kia là bút chì ạ?	https://luandai123.github.io/Korean_Beginner/L2Sp1.5.mp3	
+Lesson2	Speaking	1.6	Exam	아니요, 볼펜이에요.	A-ni-yô, bôl-phen-i-e-yô.	Không, đó là bút mực.	https://luandai123.github.io/Korean_Beginner/L2Sp1.6.mp3	
+Lesson2	Speaking	2	Struc	Speaking 2				
+Lesson2	Speaking	2.1	Exam	지도 있어요?	Chi-đô i-sơ-yô?	Có bản đồ không ạ?	https://luandai123.github.io/Korean_Beginner/L2Sp2.1.mp3	
+Lesson2	Speaking	2.2	Exam	아니요, 없어요.	A-ni-yô, ơp-sơ-yô.	Không, không có.	https://luandai123.github.io/Korean_Beginner/L2Sp2.2.mp3	
+Lesson2	Speaking	2.3	Exam	이거는 한국어로 뭐예요?	I-gơ-nưn Han-gu-gơ-rô muô-yê-yô?	Cái này tiếng Hàn gọi là gì ạ?	https://luandai123.github.io/Korean_Beginner/L2Sp2.3.mp3	
+Lesson2	Speaking	2.4	Exam	필통이에요.	Phil-thong-i-e-yô.	Là hộp bút.	https://luandai123.github.io/Korean_Beginner/L2Sp2.4.mp3	
+Lesson2	Speaking	2.5	Exam	저거는 책이에요?	Chơ-gơ-nưn chae-gi-e-yô?	Cái kia là cuốn sách phải không?	https://luandai123.github.io/Korean_Beginner/L2Sp2.5.mp3	
+Lesson2	Speaking	2.6	Exam	아니요, 잡지예요.	A-ni-yô, chap-chi-yê-yô.	Không, là cuốn tạp chí.	https://luandai123.github.io/Korean_Beginner/L2Sp2.6.mp3	
