@@ -1,0 +1,140 @@
+﻿Topic	Type	No	Sentences_Kor	Sentences_Phon	Sentences_Viet	FileAudio
+T1	Must	1	안녕하세요? 저는 루안이에요.	an-nyong-ha-sê-yô? cho-nưn ru-a-ni-ê-yô.	Xin chào! Tôi là Luan.	https://luandai123.github.io/Korean_Beginner/T1Must1.mp3
+T1	Must	2	저는 베트남 사람이에요.	cho-nưn pê-thư-nam sa-ra-mi-ê-yô.	Tôi là người Việt Nam.	https://luandai123.github.io/Korean_Beginner/T1Must2.mp3
+T1	Must	3	저는 기계 엔지니어예요.	cho-nưn gi-gyê ên-chi-ni-o-yê-yô.	Tôi là kỹ sư cơ khí.	https://luandai123.github.io/Korean_Beginner/T1Must3.mp3
+T1	Must	4	만나서 반가워요.	man-na-so pan-ga-uo-yô.	Rất vui được gặp bạn.	https://luandai123.github.io/Korean_Beginner/T1Must4.mp3
+T1	Must	5	직업은 엔지니어입니다.	chi-go-pưn ên-chi-ni-o-im-ni-ta.	Nghề nghiệp của tôi là kỹ sư.	https://luandai123.github.io/Korean_Beginner/T1Must5.mp3
+T1	Must	6	안녕히 가세요.	an-nyong-hi ga-sê-yô.	Tạm biệt. (người ra đi nói)	https://luandai123.github.io/Korean_Beginner/T1Must6.mp3
+T1	Story	1	루안이는 베트남 사람이에요. 기계 엔지니어예요. 오늘 한국 친구를 만났어요. 안녕하세요? 저는 루안이에요. 만나서 반가워요! 친구도 반가워했어요.	ru-a-ni-nưn pê-thư-nam sa-ra-mi-ê-yô. gi-gyê ên-chi-ni-o-yê-yô. ô-nưl han-guk trin-gu-rưl man-na-sso-yô. an-nyong-ha-sê-yô? cho-nưn ru-a-ni-ê-yô. man-na-so pan-ga-uo-yô! trin-gu-tô pan-ga-uo-hê-sso-yô.	Luan là người Việt Nam. Là kỹ sư cơ khí. Hôm nay gặp bạn Hàn Quốc. Xin chào! Tôi là Luan. Rất vui được gặp! Bạn cũng vui mừng.	https://luandai123.github.io/Korean_Beginner/T1Story1.mp3
+T1	Dlg	1.1	안녕하세요? 저는 루안이에요.	an-nyong-ha-sê-yô? cho-nưn ru-a-ni-ê-yô.	Xin chào! Tôi là Luan.	https://luandai123.github.io/Korean_Beginner/T1Dlg1.1.mp3
+T1	Dlg	1.2	저는 지민이에요. 만나서 반가워요.	cho-nưn chi-mi-ni-ê-yô. man-na-so pan-ga-uo-yô.	Tôi là Jimin. Rất vui được gặp.	https://luandai123.github.io/Korean_Beginner/T1Dlg1.2.mp3
+T1	Dlg	1.3	지민 씨는 직업이 뭐예요?	chi-min sxi-nưn chi-go-pi muo-yê-yô?	Nghề nghiệp của anh Jimin là gì?	https://luandai123.github.io/Korean_Beginner/T1Dlg1.3.mp3
+T1	Dlg	1.4	저는 회사원이에요. 루안 씨는요?	cho-nưn huê-sa-uo-ni-ê-yô. ru-an sxi-nư-nyô?	Tôi là nhân viên công ty. Còn anh Luan?	https://luandai123.github.io/Korean_Beginner/T1Dlg1.4.mp3
+T1	Dlg	1.5	저는 기계 엔지니어예요.	cho-nưn gi-gyê ên-chi-ni-o-yê-yô.	Tôi là kỹ sư cơ khí.	https://luandai123.github.io/Korean_Beginner/T1Dlg1.5.mp3
+T2	Must	1	저는 베트남 사람이에요.	cho-nưn pê-thư-nam sa-ra-mi-ê-yô.	Tôi là người Việt Nam.	https://luandai123.github.io/Korean_Beginner/T2Must1.mp3
+T2	Must	2	베트남에서 왔어요.	pê-thư-na-mê-so oa-sso-yô.	Tôi đến từ Việt Nam.	https://luandai123.github.io/Korean_Beginner/T2Must2.mp3
+T2	Must	3	고향은 타이응우옌이에요.	gô-hya-ưn tha-i-ư-u-yê-ni-ê-yô.	Quê tôi là Thái Nguyên.	https://luandai123.github.io/Korean_Beginner/T2Must3.mp3
+T2	Must	4	지금은 호찌민시에 살아요.	chi-gư-mưn hô-tchi-min-xi-ê sa-ra-yô.	Bây giờ tôi sống ở TP. HCM.	https://luandai123.github.io/Korean_Beginner/T2Must4.mp3
+T2	Must	5	어느 나라 사람이에요? — 베트남 사람이에요.	o-nư na-ra sa-ra-mi-ê-yô?  pê-thư-nam sa-ra-mi-ê-yô.	Người nước nào? — Người Việt Nam.	https://luandai123.github.io/Korean_Beginner/T2Must5.mp3
+T2	Story	1	저는 베트남 사람이에요. 고향은 타이응우옌이에요. 타이응우옌은 베트남 북쪽에 있어요. 지금은 호찌민시에서 일해요. 언젠가 한국에도 가고 싶어요!	cho-nưn pê-thư-nam sa-ra-mi-ê-yô. gô-hya-ưn tha-i-ư-u-yê-ni-ê-yô. tha-i-ư-u-yê-nưn pê-thư-nam puk-tchô-gê i-sso-yô. chi-gư-mưn hô-tchi-min-xi-ê-so il-hê-yô. on-chên-ga han-gu-gê-tô ga-gô xi-pho-yô!	Tôi là người Việt Nam. Quê tôi là Thái Nguyên. Thái Nguyên ở miền Bắc Việt Nam. Bây giờ tôi làm việc ở TP. HCM. Một ngày nào đó tôi muốn đến Hàn Quốc!	https://luandai123.github.io/Korean_Beginner/T2Story1.mp3
+T2	Dlg	1.1	루안 씨는 어느 나라 사람이에요?	ru-an sxi-nưn o-nư na-ra sa-ra-mi-ê-yô?	Anh Luan người nước nào?	https://luandai123.github.io/Korean_Beginner/T2Dlg1.1.mp3
+T2	Dlg	1.2	저는 베트남 사람이에요. 베트남에서 왔어요.	cho-nưn pê-thư-nam sa-ra-mi-ê-yô. pê-thư-na-mê-so oa-sso-yô.	Tôi là người Việt Nam. Tôi đến từ Việt Nam.	https://luandai123.github.io/Korean_Beginner/T2Dlg1.2.mp3
+T2	Dlg	1.3	고향이 어디예요?	gô-hya-i o-ti-yê-yô?	Quê bạn ở đâu?	https://luandai123.github.io/Korean_Beginner/T2Dlg1.3.mp3
+T2	Dlg	1.4	고향은 타이응우옌이에요. 지금은 호찌민시에 살아요.	gô-hya-ưn tha-i-ư-u-yê-ni-ê-yô. chi-gư-mưn hô-tchi-min-xi-ê sa-ra-yô.	Quê tôi ở Thái Nguyên. Bây giờ sống ở TP. HCM.	https://luandai123.github.io/Korean_Beginner/T2Dlg1.4.mp3
+T3	Must	1	가족이 몇 명이에요? — 네 명이에요.	ga-chô-gi myon myo-i-ê-yô?  nê myo-i-ê-yô.	Gia đình có mấy người? — 4 người.	https://luandai123.github.io/Korean_Beginner/T3Must1.mp3
+T3	Must	2	부모님이 계시고 남동생이 한 명 있어요.	pu-mô-ni-mi gyê-xi-gô nam-tông-sê-i han myong i-sso-yô.	Có bố mẹ và một em trai.	https://luandai123.github.io/Korean_Beginner/T3Must2.mp3
+T3	Must	3	아버지는 회사원이세요.	a-po-chi-nưn huê-sa-uo-ni-sê-yô.	Bố là nhân viên công ty.	https://luandai123.github.io/Korean_Beginner/T3Must3.mp3
+T3	Must	4	가족은 타이응우옌에 살아요.	ga-chô-gưn tha-i-ư-u-yê-nê sa-ra-yô.	Gia đình sống ở Thái Nguyên.	https://luandai123.github.io/Korean_Beginner/T3Must4.mp3
+T3	Must	5	저는 호찌민시에서 혼자 살아요.	cho-nưn hô-tchi-min-xi-ê-so hôn-cha sa-ra-yô.	Tôi sống một mình ở TP. HCM.	https://luandai123.github.io/Korean_Beginner/T3Must5.mp3
+T3	Must	6	아버지는 무슨 일을 하세요? — 회사에 다니세요.	a-po-chi-nưn mu-sưn i-rưl ha-sê-yô?  huê-sa-ê ta-ni-sê-yô.	Bố làm nghề gì? — Bố làm ở công ty.	https://luandai123.github.io/Korean_Beginner/T3Must6.mp3
+T3	Story	1	저는 가족이 네 명이에요. 부모님이 계시고 남동생이 한 명 있어요. 아버지는 회사원이시고 어머니는 주부세요. 가족은 타이응우옌에 살아요. 저는 호찌민시에서 혼자 살아요. 가족이 보고 싶어요!	cho-nưn ga-chô-gi nê myo-i-ê-yô. pu-mô-ni-mi gyê-xi-gô nam-tông-sê-i han myong i-sso-yô. a-po-chi-nưn huê-sa-uo-ni-xi-gô o-mo-ni-nưn chu-pu-sê-yô. ga-chô-gưn tha-i-ư-u-yê-nê sa-ra-yô. cho-nưn hô-tchi-min-xi-ê-so hôn-cha sa-ra-yô. ga-chô-gi pô-gô xi-pho-yô!	Gia đình tôi có 4 người. Có bố mẹ và một em trai. Bố là nhân viên công ty và mẹ là nội trợ. Gia đình sống ở Thái Nguyên. Tôi sống một mình ở TP. HCM. Tôi nhớ gia đình!	https://luandai123.github.io/Korean_Beginner/T3Story1.mp3
+T3	Dlg	1.1	가족이 몇 명이에요?	ga-chô-gi myon myo-i-ê-yô?	Gia đình có mấy người?	https://luandai123.github.io/Korean_Beginner/T3Dlg1.1.mp3
+T3	Dlg	1.2	네 명이에요. 부모님이 계시고 남동생이 한 명 있어요.	nê myo-i-ê-yô. pu-mô-ni-mi gyê-xi-gô nam-tông-sê-i han myong i-sso-yô.	4 người. Có bố mẹ và một em trai.	https://luandai123.github.io/Korean_Beginner/T3Dlg1.2.mp3
+T3	Dlg	1.3	아버지는 무슨 일을 하세요?	a-po-chi-nưn mu-sưn i-rưl ha-sê-yô?	Bố làm nghề gì?	https://luandai123.github.io/Korean_Beginner/T3Dlg1.3.mp3
+T3	Dlg	1.4	회사원이세요. 어머니는 주부세요.	huê-sa-uo-ni-sê-yô. o-mo-ni-nưn chu-pu-sê-yô.	Bố là nhân viên công ty. Mẹ là nội trợ.	https://luandai123.github.io/Korean_Beginner/T3Dlg1.4.mp3
+T3	Dlg	1.5	가족이 보고 싶어요.	ga-chô-gi pô-gô xi-pho-yô.	Tôi nhớ gia đình.	https://luandai123.github.io/Korean_Beginner/T3Dlg1.5.mp3
+T4	Must	1	보통 여섯 시에 일어나요.	pô-thông yo-sot sxi-ê i-ro-na-yô.	Thường tôi dậy lúc 6 giờ.	https://luandai123.github.io/Korean_Beginner/T4Must1.mp3
+T4	Must	2	아침에 샤워하고 밥을 먹어요.	a-tri-mê sya-uo-ha-gô pa-pưl mo-go-yô.	Sáng tôi tắm rồi ăn sáng.	https://luandai123.github.io/Korean_Beginner/T4Must2.mp3
+T4	Must	3	9시부터 6시까지 일해요.	xi-pu-tho xi-kka-chi il-hê-yô.	Tôi làm từ 9 giờ đến 6 giờ.	https://luandai123.github.io/Korean_Beginner/T4Must3.mp3
+T4	Must	4	저녁에 한국어를 공부해요.	cho-nyo-gê han-gu-go-rưl gông-pu-hê-yô.	Buổi tối tôi học tiếng Hàn.	https://luandai123.github.io/Korean_Beginner/T4Must4.mp3
+T4	Must	5	밤에 열한 시쯤에 자요.	pa-mê yol-han xi-tchư-mê cha-yô.	Tối khoảng 11 giờ tôi ngủ.	https://luandai123.github.io/Korean_Beginner/T4Must5.mp3
+T4	Must	6	지금 몇 시예요? — 아홉 시예요.	chi-gưm myot sxi-yê-yô?  a-hôp sxi-yê-yô.	Bây giờ mấy giờ? — 9 giờ.	https://luandai123.github.io/Korean_Beginner/T4Must6.mp3
+T4	Story	1	저는 매일 여섯 시에 일어나요. 샤워하고 아침을 먹어요. 9시부터 6시까지 회사에서 일해요. 퇴근 후에는 저녁을 먹고 한국어를 공부해요. 그리고 열한 시쯤에 자요. 바쁘지만 재미있어요!	cho-nưn mê-il yo-sot sxi-ê i-ro-na-yô. sya-uo-ha-gô a-tri-mưl mo-go-yô. xi-pu-tho xi-kka-chi huê-sa-ê-so il-hê-yô. thuê-gưn hu-ê-nưn cho-nyo-gưl mok-kkô han-gu-go-rưl gông-pu-hê-yô. gư-ri-gô yol-han xi-tchư-mê cha-yô. pa-ppư-chi-man chê-mi-i-sso-yô!	Mỗi ngày tôi dậy lúc 6 giờ. Tắm rồi ăn sáng. Làm từ 9 giờ đến 6 giờ ở công ty. Sau giờ làm ăn tối rồi học tiếng Hàn. Khoảng 11 giờ ngủ. Bận nhưng vui!	https://luandai123.github.io/Korean_Beginner/T4Story1.mp3
+T4	Dlg	1.1	보통 몇 시에 일어나요?	pô-thông myot sxi-ê i-ro-na-yô?	Thường bạn dậy lúc mấy giờ?	https://luandai123.github.io/Korean_Beginner/T4Dlg1.1.mp3
+T4	Dlg	1.2	보통 여섯 시에 일어나요. 샤워하고 아침을 먹어요.	pô-thông yo-sot sxi-ê i-ro-na-yô. sya-uo-ha-gô a-tri-mưl mo-go-yô.	Thường dậy lúc 6 giờ. Tắm rồi ăn sáng.	https://luandai123.github.io/Korean_Beginner/T4Dlg1.2.mp3
+T4	Dlg	1.3	퇴근 후에 뭐 해요?	thuê-gưn hu-ê muo hê-yô?	Sau giờ làm bạn làm gì?	https://luandai123.github.io/Korean_Beginner/T4Dlg1.3.mp3
+T4	Dlg	1.4	저녁을 먹고 한국어를 공부해요. 재미있어요!	cho-nyo-gưl mok-kkô han-gu-go-rưl gông-pu-hê-yô. chê-mi-i-sso-yô!	Ăn tối rồi học tiếng Hàn. Vui lắm!	https://luandai123.github.io/Korean_Beginner/T4Dlg1.4.mp3
+T5	Must	1	저는 기계 엔지니어예요.	cho-nưn gi-gyê ên-chi-ni-o-yê-yô.	Tôi là kỹ sư cơ khí.	https://luandai123.github.io/Korean_Beginner/T5Must1.mp3
+T5	Must	2	회사에서 기계를 설계해요.	huê-sa-ê-so gi-gyê-rưl sol-gyê-hê-yô.	Tôi thiết kế máy móc ở công ty.	https://luandai123.github.io/Korean_Beginner/T5Must2.mp3
+T5	Must	3	일이 어렵지만 재미있어요.	i-ri o-ryop-tchi-man chê-mi-i-sso-yô.	Công việc khó nhưng thú vị.	https://luandai123.github.io/Korean_Beginner/T5Must3.mp3
+T5	Must	4	동료들이 친절해요.	tông-ryô-tư-ri trin-chol-hê-yô.	Đồng nghiệp thân thiện.	https://luandai123.github.io/Korean_Beginner/T5Must4.mp3
+T5	Must	5	취미로 프로그래밍을 해요.	truy-mi-rô phư-rô-gư-rê-mi-ưl hê-yô.	Sở thích của tôi là lập trình.	https://luandai123.github.io/Korean_Beginner/T5Must5.mp3
+T5	Must	6	무슨 일을 해요? — 기계 엔지니어예요.	mu-sưn i-rưl hê-yô?  gi-gyê ên-chi-ni-o-yê-yô.	Bạn làm nghề gì? — Tôi là kỹ sư cơ khí.	https://luandai123.github.io/Korean_Beginner/T5Must6.mp3
+T5	Story	1	저는 기계 엔지니어예요. 회사에서 기계를 설계해요. 일이 어렵지만 재미있어요. 동료들도 친절해요. 그리고 저는 취미로 프로그래밍을 해요. 지금 한국어 공부 앱을 만들고 있어요!	cho-nưn gi-gyê ên-chi-ni-o-yê-yô. huê-sa-ê-so gi-gyê-rưl sol-gyê-hê-yô. i-ri o-ryop-tchi-man chê-mi-i-sso-yô. tông-ryô-tưl-tô trin-chol-hê-yô. gư-ri-gô cho-nưn truy-mi-rô phư-rô-gư-rê-mi-ưl hê-yô. chi-gưm han-gu-go gông-pu ê-pưl man-tưl-gô i-sso-yô!	Tôi là kỹ sư cơ khí. Tôi thiết kế máy móc ở công ty. Công việc khó nhưng thú vị. Đồng nghiệp cũng thân thiện. Và sở thích của tôi là lập trình. Tôi đang làm app học tiếng Hàn!	https://luandai123.github.io/Korean_Beginner/T5Story1.mp3
+T5	Dlg	1.1	무슨 일을 해요?	mu-sưn i-rưl hê-yô?	Bạn làm nghề gì?	https://luandai123.github.io/Korean_Beginner/T5Dlg1.1.mp3
+T5	Dlg	1.2	저는 기계 엔지니어예요. 회사에서 기계를 설계해요.	cho-nưn gi-gyê ên-chi-ni-o-yê-yô. huê-sa-ê-so gi-gyê-rưl sol-gyê-hê-yô.	Tôi là kỹ sư cơ khí. Thiết kế máy móc ở công ty.	https://luandai123.github.io/Korean_Beginner/T5Dlg1.2.mp3
+T5	Dlg	1.3	일이 어때요?	i-ri o-ttê-yô?	Công việc thế nào?	https://luandai123.github.io/Korean_Beginner/T5Dlg1.3.mp3
+T5	Dlg	1.4	어렵지만 재미있어요. 동료들도 친절해요.	o-ryop-tchi-man chê-mi-i-sso-yô. tông-ryô-tưl-tô trin-chol-hê-yô.	Khó nhưng thú vị. Đồng nghiệp cũng thân thiện.	https://luandai123.github.io/Korean_Beginner/T5Dlg1.4.mp3
+T6	Must	1	저는 한국어를 공부해요.	cho-nưn han-gu-go-rưl gông-pu-hê-yô.	Tôi học tiếng Hàn.	https://luandai123.github.io/Korean_Beginner/T6Must1.mp3
+T6	Must	2	혼자 앱으로 공부해요.	hôn-cha ê-pư-rô gông-pu-hê-yô.	Tôi tự học bằng app.	https://luandai123.github.io/Korean_Beginner/T6Must2.mp3
+T6	Must	3	한국어가 어렵지만 재미있어요.	han-gu-go-ga o-ryop-tchi-man chê-mi-i-sso-yô.	Tiếng Hàn khó nhưng thú vị.	https://luandai123.github.io/Korean_Beginner/T6Must3.mp3
+T6	Must	4	아직 잘 못해요. 열심히 공부하고 있어요.	a-chik tchal môt-hê-yô. yol-xim-hi gông-pu-ha-gô i-sso-yô.	Chưa giỏi lắm. Đang học chăm chỉ.	https://luandai123.github.io/Korean_Beginner/T6Must4.mp3
+T6	Must	5	음악을 들으면서 공부해요.	ư-ma-gưl tư-rư-myon-so gông-pu-hê-yô.	Vừa nghe nhạc vừa học.	https://luandai123.github.io/Korean_Beginner/T6Must5.mp3
+T6	Must	6	한국말을 잘하시네요! — 뭘요. 아직 잘 못해요.	han-gung-ma-rưl chal-ha-xi-nê-yô!  muo-ryô. a-chik tchal môt-hê-yô.	Bạn nói tiếng Hàn giỏi nhỉ! — Có gì đâu. Tôi chưa giỏi lắm.	https://luandai123.github.io/Korean_Beginner/T6Must6.mp3
+T6	Story	1	저는 혼자 한국어를 공부해요. 제가 만든 앱으로 공부해요. 음악을 들으면서 공부할 때가 제일 좋아요. 한국어가 어렵지만 정말 재미있어요. 아직 잘 못하지만 매일 열심히 할 거예요!	cho-nưn hôn-cha han-gu-go-rưl gông-pu-hê-yô. chê-ga man-tưn ê-pư-rô gông-pu-hê-yô. ư-ma-gưl tư-rư-myon-so gông-pu-hal ttê-ga chê-il chô-ha-yô. han-gu-go-ga o-ryop-tchi-man chong-mal chê-mi-i-sso-yô. a-chik tchal môt-ha-chi-man mê-il yol-xim-hi hal go-yê-yô!	Tôi tự học tiếng Hàn một mình. Học bằng app tôi tự tạo. Tôi thích nhất khi vừa nghe nhạc vừa học. Tiếng Hàn khó nhưng thật thú vị. Chưa giỏi nhưng sẽ cố gắng mỗi ngày!	https://luandai123.github.io/Korean_Beginner/T6Story1.mp3
+T6	Dlg	1.1	한국말을 아주 잘하시네요!	han-gung-ma-rưl a-chu chal-ha-xi-nê-yô!	Bạn nói tiếng Hàn rất giỏi nhỉ!	https://luandai123.github.io/Korean_Beginner/T6Dlg1.1.mp3
+T6	Dlg	1.2	뭘요. 아직 잘 못해요.	muo-ryô. a-chik tchal môt-hê-yô.	Có gì đâu. Vẫn chưa giỏi lắm.	https://luandai123.github.io/Korean_Beginner/T6Dlg1.2.mp3
+T6	Dlg	1.3	어디에서 배워요?	o-ti-ê-so pê-uo-yô?	Bạn học ở đâu?	https://luandai123.github.io/Korean_Beginner/T6Dlg1.3.mp3
+T6	Dlg	1.4	제가 만든 앱으로 혼자 공부해요. 음악을 들으면서 공부해요.	chê-ga man-tưn ê-pư-rô hôn-cha gông-pu-hê-yô. ư-ma-gưl tư-rư-myon-so gông-pu-hê-yô.	Tôi tự học bằng app tự tạo. Vừa nghe nhạc vừa học.	https://luandai123.github.io/Korean_Beginner/T6Dlg1.4.mp3
+T7	Must	1	취미는 프로그래밍이에요.	truy-mi-nưn phư-rô-gư-rê-mi-i-ê-yô.	Sở thích của tôi là lập trình.	https://luandai123.github.io/Korean_Beginner/T7Must1.mp3
+T7	Must	2	한국 드라마를 좋아해요.	han-guk ttư-ra-ma-rưl chô-ha-hê-yô.	Tôi thích phim Hàn.	https://luandai123.github.io/Korean_Beginner/T7Must2.mp3
+T7	Must	3	삼겹살을 제일 좋아해요.	sam-gyop-ssa-rưl chê-il chô-ha-hê-yô.	Thịt ba chỉ là món tôi thích nhất.	https://luandai123.github.io/Korean_Beginner/T7Must3.mp3
+T7	Must	4	음악을 들으면서 코딩을 해요.	ư-ma-gưl tư-rư-myon-so khô-ti-ưl hê-yô.	Tôi vừa nghe nhạc vừa code.	https://luandai123.github.io/Korean_Beginner/T7Must4.mp3
+T7	Must	5	취미가 뭐예요? — 프로그래밍이에요.	truy-mi-ga muo-yê-yô?  phư-rô-gư-rê-mi-i-ê-yô.	Sở thích là gì? — Lập trình.	https://luandai123.github.io/Korean_Beginner/T7Must5.mp3
+T7	Story	1	제 취미는 프로그래밍이에요. 음악을 들으면서 코딩을 할 때가 제일 행복해요. 한국 드라마도 정말 좋아해요. 그래서 한국어를 배우기 시작했어요. 한국 음식도 좋아해요. 삼겹살이 최고예요!	chê truy-mi-nưn phư-rô-gư-rê-mi-i-ê-yô. ư-ma-gưl tư-rư-myon-so khô-ti-ưl hal ttê-ga chê-il hêng-pô-khê-yô. han-guk ttư-ra-ma-tô chong-mal chô-ha-hê-yô. gư-rê-so han-gu-go-rưl pê-u-gi xi-cha-khê-sso-yô. han-guk ưm-xik-ttô chô-ha-hê-yô. sam-gyop-ssa-ri truê-gô-yê-yô!	Sở thích của tôi là lập trình. Tôi hạnh phúc nhất khi vừa nghe nhạc vừa code. Tôi cũng rất thích phim Hàn. Vì vậy tôi bắt đầu học tiếng Hàn. Tôi cũng thích đồ ăn Hàn. Thịt ba chỉ là tuyệt nhất!	https://luandai123.github.io/Korean_Beginner/T7Story1.mp3
+T7	Dlg	1.1	취미가 뭐예요?	truy-mi-ga muo-yê-yô?	Sở thích của bạn là gì?	https://luandai123.github.io/Korean_Beginner/T7Dlg1.1.mp3
+T7	Dlg	1.2	취미는 프로그래밍이에요. 음악도 좋아해요.	truy-mi-nưn phư-rô-gư-rê-mi-i-ê-yô. ư-mak-ttô chô-ha-hê-yô.	Sở thích là lập trình. Tôi cũng thích âm nhạc.	https://luandai123.github.io/Korean_Beginner/T7Dlg1.2.mp3
+T7	Dlg	1.3	한국 음식은 좋아해요?	han-guk ưm-xi-gưn chô-ha-hê-yô?	Thích đồ ăn Hàn không?	https://luandai123.github.io/Korean_Beginner/T7Dlg1.3.mp3
+T7	Dlg	1.4	네, 삼겹살을 제일 좋아해요!	nê, sam-gyop-ssa-rưl chê-il chô-ha-hê-yô!	Vâng, tôi thích nhất thịt ba chỉ!	https://luandai123.github.io/Korean_Beginner/T7Dlg1.4.mp3
+T8	Must	1	주말에 뭐 했어요?	chu-ma-rê muo hê-sso-yô?	Cuối tuần bạn làm gì?	https://luandai123.github.io/Korean_Beginner/T8Must1.mp3
+T8	Must	2	집에서 코딩을 했어요.	chi-pê-so khô-ti-ưl hê-sso-yô.	Tôi ở nhà lập trình.	https://luandai123.github.io/Korean_Beginner/T8Must2.mp3
+T8	Must	3	같이 영화 볼까요? — 네, 좋아요!	ga-thi yong-hoa pôl-kka-yô?  nê, chô-ha-yô!	Cùng xem phim nhé? — Được, hay!	https://luandai123.github.io/Korean_Beginner/T8Must3.mp3
+T8	Must	4	주말에 보통 집에서 쉬어요.	chu-ma-rê pô-thông chi-pê-so suy-o-yô.	Cuối tuần tôi thường nghỉ ở nhà.	https://luandai123.github.io/Korean_Beginner/T8Must4.mp3
+T8	Must	5	친구를 만나서 같이 밥을 먹었어요.	trin-gu-rưl man-na-so ga-thi pa-pưl mo-go-sso-yô.	Gặp bạn rồi cùng ăn cơm.	https://luandai123.github.io/Korean_Beginner/T8Must5.mp3
+T8	Story	1	지난 주말에 뭐 했어요? 토요일에는 집에서 코딩을 했어요. 그리고 한국 드라마를 봤어요. 정말 재미있었어요! 일요일에는 친구를 만났어요. 같이 삼겹살을 먹었어요. 맛있었어요!	chi-nan chu-ma-rê muo hê-sso-yô? thô-yô-i-rê-nưn chi-pê-so khô-ti-ưl hê-sso-yô. gư-ri-gô han-guk ttư-ra-ma-rưl poa-sso-yô. chong-mal chê-mi-i-sso-sso-yô! i-ryô-i-rê-nưn trin-gu-rưl man-na-sso-yô. ga-thi sam-gyop-ssa-rưl mo-go-sso-yô. ma-xi-sso-sso-yô!	Cuối tuần trước tôi làm gì? Thứ Bảy ở nhà lập trình. Rồi xem phim Hàn. Vui lắm! Chủ Nhật gặp bạn. Cùng ăn thịt ba chỉ. Ngon lắm!	https://luandai123.github.io/Korean_Beginner/T8Story1.mp3
+T8	Dlg	1.1	주말에 뭐 했어요?	chu-ma-rê muo hê-sso-yô?	Cuối tuần bạn làm gì?	https://luandai123.github.io/Korean_Beginner/T8Dlg1.1.mp3
+T8	Dlg	1.2	집에서 코딩을 했어요. 그리고 한국 드라마를 봤어요.	chi-pê-so khô-ti-ưl hê-sso-yô. gư-ri-gô han-guk ttư-ra-ma-rưl poa-sso-yô.	Ở nhà code. Rồi xem phim Hàn.	https://luandai123.github.io/Korean_Beginner/T8Dlg1.2.mp3
+T8	Dlg	1.3	이번 주말에는 뭐 할 거예요?	i-pon chu-ma-rê-nưn muo hal go-yê-yô?	Cuối tuần này bạn sẽ làm gì?	https://luandai123.github.io/Korean_Beginner/T8Dlg1.3.mp3
+T8	Dlg	1.4	같이 영화 볼까요?	ga-thi yong-hoa pôl-kka-yô?	Cùng xem phim nhé?	https://luandai123.github.io/Korean_Beginner/T8Dlg1.4.mp3
+T8	Dlg	1.5	네, 좋아요! 몇 시에 만날까요?	nê, chô-ha-yô! myot sxi-ê man-nal-kka-yô?	Vâng, hay đấy! Mấy giờ gặp nhau?	https://luandai123.github.io/Korean_Beginner/T8Dlg1.5.mp3
+T9	Must	1	어디에 가요? — 회사에 가요.	o-ti-ê ga-yô?  huê-sa-ê ga-yô.	Đi đâu? — Tôi đi công ty.	https://luandai123.github.io/Korean_Beginner/T9Must1.mp3
+T9	Must	2	지하철로 가요.	chi-ha-trol-rô ga-yô.	Tôi đi bằng tàu điện ngầm.	https://luandai123.github.io/Korean_Beginner/T9Must2.mp3
+T9	Must	3	은행에 돈을 찾으러 가요.	ưn-nê-ê tô-nưl tra-chư-ro ga-yô.	Tôi đến ngân hàng để rút tiền.	https://luandai123.github.io/Korean_Beginner/T9Must3.mp3
+T9	Must	4	집에서 회사까지 얼마나 걸려요? — 30분쯤 걸려요.	chi-pê-so huê-sa-kka-chi ol-ma-na gol-ryo-yô?  pun-tchưm gol-ryo-yô.	Từ nhà đến công ty mất bao lâu? — Khoảng 30 phút.	https://luandai123.github.io/Korean_Beginner/T9Must4.mp3
+T9	Must	5	회사로 가 주세요.	huê-sa-rô ga chu-sê-yô.	Cho tôi đến công ty.	https://luandai123.github.io/Korean_Beginner/T9Must5.mp3
+T9	Story	1	저는 매일 지하철로 회사에 가요. 집에서 회사까지 30분쯤 걸려요. 점심에는 회사 근처 식당에서 밥을 먹어요. 퇴근 후에는 공원에서 산책을 해요. 정말 좋아요!	cho-nưn mê-il chi-ha-trol-rô huê-sa-ê ga-yô. chi-pê-so huê-sa-kka-chi pun-tchưm gol-ryo-yô. chom-xi-mê-nưn huê-sa gưn-tro xik-tta-ê-so pa-pưl mo-go-yô. thuê-gưn hu-ê-nưn gô-uo-nê-so san-trê-gưl hê-yô. chong-mal chô-ha-yô!	Mỗi ngày tôi đi tàu điện ngầm đến công ty. Từ nhà đến công ty mất khoảng 30 phút. Buổi trưa ăn cơm ở nhà hàng gần công ty. Sau giờ làm đi dạo ở công viên. Thật tuyệt!	https://luandai123.github.io/Korean_Beginner/T9Story1.mp3
+T9	Dlg	1.1	어디로 가세요?	o-ti-rô ga-sê-yô?	Bạn đi đâu?	https://luandai123.github.io/Korean_Beginner/T9Dlg1.1.mp3
+T9	Dlg	1.2	회사로 가 주세요.	huê-sa-rô ga chu-sê-yô.	Cho tôi đến công ty.	https://luandai123.github.io/Korean_Beginner/T9Dlg1.2.mp3
+T9	Dlg	1.3	지하철로 가요? 버스로 가요?	chi-ha-trol-rô ga-yô? po-sư-rô ga-yô?	Đi tàu điện ngầm hay xe buýt?	https://luandai123.github.io/Korean_Beginner/T9Dlg1.3.mp3
+T9	Dlg	1.4	지하철로 가요. 빠르고 편해요.	chi-ha-trol-rô ga-yô. ppa-rư-gô phyon-nê-yô.	Đi tàu điện ngầm. Nhanh và tiện.	https://luandai123.github.io/Korean_Beginner/T9Dlg1.4.mp3
+T10	Must	1	오늘 날씨가 어때요? — 맑아요.	ô-nưl nal-sxi-ga o-ttê-yô?  mak-ra-yô.	Hôm nay thời tiết thế nào? — Quang đãng.	https://luandai123.github.io/Korean_Beginner/T10Must1.mp3
+T10	Must	2	저는 가을을 좋아해요.	cho-nưn ga-ư-rưl chô-ha-hê-yô.	Tôi thích mùa thu.	https://luandai123.github.io/Korean_Beginner/T10Must2.mp3
+T10	Must	3	베트남은 일 년 내내 더워요.	pê-thư-na-mưn il nyon nê-nê to-uo-yô.	Việt Nam nóng quanh năm.	https://luandai123.github.io/Korean_Beginner/T10Must3.mp3
+T10	Must	4	한국 겨울이 정말 추워요.	han-guk kkyo-u-ri chong-mal tru-uo-yô.	Mùa đông Hàn Quốc rất lạnh.	https://luandai123.github.io/Korean_Beginner/T10Must4.mp3
+T10	Must	5	봄에는 따뜻하고 꽃이 피어요.	pô-mê-nưn tta-ttưt-ha-gô kkô-tri phi-o-yô.	Mùa xuân ấm áp và hoa nở.	https://luandai123.github.io/Korean_Beginner/T10Must5.mp3
+T10	Story	1	한국은 사계절이 있어요. 봄에는 따뜻하고 꽃이 피어요. 여름에는 더워요. 가을에는 맑고 시원해요. 겨울에는 추워요. 저는 가을을 제일 좋아해요. 베트남에는 사계절이 없어서 아쉬워요.	han-gu-gưn sa-gyê-cho-ri i-sso-yô. pô-mê-nưn tta-ttưt-ha-gô kkô-tri phi-o-yô. yo-rư-mê-nưn to-uo-yô. ga-ư-rê-nưn mak-kkô xi-uon-nê-yô. gyo-u-rê-nưn tru-uo-yô. cho-nưn ga-ư-rưl chê-il chô-ha-hê-yô. pê-thư-na-mê-nưn sa-gyê-cho-ri op-sso-so a-suy-uo-yô.	Hàn Quốc có 4 mùa. Xuân ấm và hoa nở. Hè nóng. Thu quang đãng mát mẻ. Đông lạnh. Tôi thích mùa thu nhất. Việt Nam không có 4 mùa nên hơi tiếc.	https://luandai123.github.io/Korean_Beginner/T10Story1.mp3
+T10	Dlg	1.1	오늘 날씨가 어때요?	ô-nưl nal-sxi-ga o-ttê-yô?	Hôm nay thời tiết thế nào?	https://luandai123.github.io/Korean_Beginner/T10Dlg1.1.mp3
+T10	Dlg	1.2	맑고 시원해요. 한국 가을 날씨가 정말 좋아요.	mak-kkô xi-uon-nê-yô. han-guk kka-ưl nal-sxi-ga chong-mal chô-ha-yô.	Quang đãng và mát mẻ. Thời tiết mùa thu Hàn Quốc thật tuyệt.	https://luandai123.github.io/Korean_Beginner/T10Dlg1.2.mp3
+T10	Dlg	1.3	베트남 날씨는 어때요?	pê-thư-nam nal-sxi-nưn o-ttê-yô?	Thời tiết Việt Nam thế nào?	https://luandai123.github.io/Korean_Beginner/T10Dlg1.3.mp3
+T10	Dlg	1.4	일 년 내내 더워요. 그래서 가을이 없어요.	il nyon nê-nê to-uo-yô. gư-rê-so ga-ư-ri op-sso-yô.	Nóng quanh năm. Vì vậy không có mùa thu.	https://luandai123.github.io/Korean_Beginner/T10Dlg1.4.mp3
+T11	Must	1	어제 뭐 했어요?	o-chê muo hê-sso-yô?	Hôm qua bạn làm gì?	https://luandai123.github.io/Korean_Beginner/T11Must1.mp3
+T11	Must	2	친구를 만나서 같이 밥을 먹었어요.	trin-gu-rưl man-na-so ga-thi pa-pưl mo-go-sso-yô.	Gặp bạn rồi cùng ăn cơm.	https://luandai123.github.io/Korean_Beginner/T11Must2.mp3
+T11	Must	3	지난 주말에 집에서 코딩을 했어요.	chi-nan chu-ma-rê chi-pê-so khô-ti-ưl hê-sso-yô.	Cuối tuần trước tôi ở nhà code.	https://luandai123.github.io/Korean_Beginner/T11Must3.mp3
+T11	Must	4	정말 재미있었어요!	chong-mal chê-mi-i-sso-sso-yô!	Thật sự rất vui!	https://luandai123.github.io/Korean_Beginner/T11Must4.mp3
+T11	Must	5	한국 드라마를 봤어요. 정말 좋았어요.	han-guk ttư-ra-ma-rưl poa-sso-yô. chong-mal chô-ha-sso-yô.	Tôi đã xem phim Hàn. Thật tuyệt.	https://luandai123.github.io/Korean_Beginner/T11Must5.mp3
+T11	Story	1	지난 주말에 친구를 만났어요. 같이 삼겹살을 먹었어요. 삼겹살이 정말 맛있었어요! 밥을 먹고 카페에 가서 커피를 마셨어요. 그리고 한국 드라마를 봤어요. 정말 재미있었어요!	chi-nan chu-ma-rê trin-gu-rưl man-na-sso-yô. ga-thi sam-gyop-ssa-rưl mo-go-sso-yô. sam-gyop-ssa-ri chong-mal ma-xi-sso-sso-yô! pa-pưl mok-kkô kha-phê-ê ga-so kho-phi-rưl ma-syo-sso-yô. gư-ri-gô han-guk ttư-ra-ma-rưl poa-sso-yô. chong-mal chê-mi-i-sso-sso-yô!	Cuối tuần trước gặp bạn. Cùng ăn thịt ba chỉ. Ngon lắm! Ăn xong đến quán cà phê uống cà phê. Rồi xem phim Hàn. Vui lắm!	https://luandai123.github.io/Korean_Beginner/T11Story1.mp3
+T11	Dlg	1.1	어제 뭐 했어요?	o-chê muo hê-sso-yô?	Hôm qua bạn làm gì?	https://luandai123.github.io/Korean_Beginner/T11Dlg1.1.mp3
+T11	Dlg	1.2	친구를 만나서 같이 삼겹살을 먹었어요.	trin-gu-rưl man-na-so ga-thi sam-gyop-ssa-rưl mo-go-sso-yô.	Gặp bạn rồi cùng ăn thịt ba chỉ.	https://luandai123.github.io/Korean_Beginner/T11Dlg1.2.mp3
+T11	Dlg	1.3	재미있었어요?	chê-mi-i-sso-sso-yô?	Vui không?	https://luandai123.github.io/Korean_Beginner/T11Dlg1.3.mp3
+T11	Dlg	1.4	네, 정말 재미있었어요! 한국 드라마도 같이 봤어요.	nê, chong-mal chê-mi-i-sso-sso-yô! han-guk ttư-ra-ma-tô ga-thi poa-sso-yô.	Vâng, vui lắm! Còn cùng xem phim Hàn.	https://luandai123.github.io/Korean_Beginner/T11Dlg1.4.mp3
+T12	Must	1	한국에 가고 싶어요.	han-gu-gê ga-gô xi-pho-yô.	Tôi muốn đến Hàn Quốc.	https://luandai123.github.io/Korean_Beginner/T12Must1.mp3
+T12	Must	2	삼겹살을 먹고 싶어요.	sam-gyop-ssa-rưl mok-kkô xi-pho-yô.	Tôi muốn ăn thịt ba chỉ.	https://luandai123.github.io/Korean_Beginner/T12Must2.mp3
+T12	Must	3	한국어를 잘하고 싶어요.	han-gu-go-rưl chal-ha-gô xi-pho-yô.	Tôi muốn giỏi tiếng Hàn.	https://luandai123.github.io/Korean_Beginner/T12Must3.mp3
+T12	Must	4	좋은 개발자가 되고 싶어요.	chô-hưn gê-pal-cha-ga tuê-gô xi-pho-yô.	Tôi muốn trở thành dev giỏi.	https://luandai123.github.io/Korean_Beginner/T12Must4.mp3
+T12	Must	5	한국 친구를 만나고 싶어요.	han-guk trin-gu-rưl man-na-gô xi-pho-yô.	Tôi muốn gặp bạn Hàn Quốc.	https://luandai123.github.io/Korean_Beginner/T12Must5.mp3
+T12	Story	1	저는 한국에 꼭 가고 싶어요. 한국에 가서 삼겹살도 먹고 싶고, 한국 친구도 만나고 싶어요. 그리고 언젠가 한국 회사에서 일하고 싶어요. 그래서 지금 열심히 한국어를 공부하고 있어요!	cho-nưn han-gu-gê kkôk kka-gô xi-pho-yô. han-gu-gê ga-so sam-gyop-ssal-tô mok-kkô xip-kkô, han-guk trin-gu-tô man-na-gô xi-pho-yô. gư-ri-gô on-chên-ga han-guk huê-sa-ê-so il-ha-gô xi-pho-yô. gư-rê-so chi-gưm yol-xim-hi han-gu-go-rưl gông-pu-ha-gô i-sso-yô!	Tôi nhất định muốn đến Hàn Quốc. Đến Hàn muốn ăn thịt ba chỉ, muốn gặp bạn Hàn. Và một ngày nào đó muốn làm ở công ty Hàn. Vì vậy bây giờ đang học tiếng Hàn chăm chỉ!	https://luandai123.github.io/Korean_Beginner/T12Story1.mp3
+T12	Dlg	1.1	앞으로 뭐 하고 싶어요?	a-phư-rô muo ha-gô xi-pho-yô?	Bạn muốn làm gì trong tương lai?	https://luandai123.github.io/Korean_Beginner/T12Dlg1.1.mp3
+T12	Dlg	1.2	한국에 가고 싶어요. 그리고 한국 회사에서 일하고 싶어요.	han-gu-gê ga-gô xi-pho-yô. gư-ri-gô han-guk huê-sa-ê-so il-ha-gô xi-pho-yô.	Muốn đến Hàn Quốc. Và muốn làm ở công ty Hàn Quốc.	https://luandai123.github.io/Korean_Beginner/T12Dlg1.2.mp3
+T12	Dlg	1.3	한국어를 잘하고 싶어요?	han-gu-go-rưl chal-ha-gô xi-pho-yô?	Bạn muốn giỏi tiếng Hàn không?	https://luandai123.github.io/Korean_Beginner/T12Dlg1.3.mp3
+T12	Dlg	1.4	네, 정말 잘하고 싶어요. 그래서 매일 공부해요.	nê, chong-mal chal-ha-gô xi-pho-yô. gư-rê-so mê-il gông-pu-hê-yô.	Vâng, thật sự muốn giỏi. Vì vậy học mỗi ngày.	https://luandai123.github.io/Korean_Beginner/T12Dlg1.4.mp3
+T13	Must	1	주말에 뭐 할 거예요?	chu-ma-rê muo hal go-yê-yô?	Cuối tuần bạn sẽ làm gì?	https://luandai123.github.io/Korean_Beginner/T13Must1.mp3
+T13	Must	2	한국에 여행을 가려고 해요.	han-gu-gê yo-hê-ưl ga-ryo-gô hê-yô.	Tôi định đi du lịch Hàn Quốc.	https://luandai123.github.io/Korean_Beginner/T13Must2.mp3
+T13	Must	3	더 열심히 공부할게요.	to yol-xim-hi gông-pu-hal-gê-yô.	Tôi sẽ học chăm chỉ hơn.	https://luandai123.github.io/Korean_Beginner/T13Must3.mp3
+T13	Must	4	언젠가 한국에서 일하고 싶어요.	on-chên-ga han-gu-gê-so il-ha-gô xi-pho-yô.	Một ngày nào đó muốn làm ở Hàn Quốc.	https://luandai123.github.io/Korean_Beginner/T13Must4.mp3
+T13	Must	5	내년에 한국에 갈 거예요.	nê-nyo-nê han-gu-gê gal go-yê-yô.	Năm tới tôi sẽ đến Hàn Quốc.	https://luandai123.github.io/Korean_Beginner/T13Must5.mp3
+T13	Must	6	이번 주말에 앱을 만들 거예요.	i-pon chu-ma-rê ê-pưl man-tưl go-yê-yô.	Cuối tuần này tôi sẽ làm app.	https://luandai123.github.io/Korean_Beginner/T13Must6.mp3
+T13	Story	1	앞으로 저는 한국어를 열심히 공부할 거예요. 내년에 한국에 여행을 가려고 해요. 한국에서 삼겹살도 먹고 싶고, 친구도 만나고 싶어요. 언젠가 한국 회사에서 일할 수 있을 거예요! 더 열심히 할게요!	a-phư-rô cho-nưn han-gu-go-rưl yol-xim-hi gông-pu-hal go-yê-yô. nê-nyo-nê han-gu-gê yo-hê-ưl ga-ryo-gô hê-yô. han-gu-gê-so sam-gyop-ssal-tô mok-kkô xip-kkô, trin-gu-tô man-na-gô xi-pho-yô. on-chên-ga han-guk huê-sa-ê-so il-hal su i-ssưl go-yê-yô! to yol-xim-hi hal-gê-yô!	Trong tương lai tôi sẽ học tiếng Hàn chăm chỉ. Năm tới định đi du lịch Hàn Quốc. Ở Hàn muốn ăn thịt ba chỉ, muốn gặp bạn. Một ngày nào đó sẽ có thể làm ở công ty Hàn! Tôi sẽ cố hơn nữa!	https://luandai123.github.io/Korean_Beginner/T13Story1.mp3
+T13	Dlg	1.1	주말에 뭐 할 거예요?	chu-ma-rê muo hal go-yê-yô?	Cuối tuần bạn sẽ làm gì?	https://luandai123.github.io/Korean_Beginner/T13Dlg1.1.mp3
+T13	Dlg	1.2	집에서 한국어를 공부할 거예요. 그리고 앱도 만들 거예요.	chi-pê-so han-gu-go-rưl gông-pu-hal go-yê-yô. gư-ri-gô êp-ttô man-tưl go-yê-yô.	Ở nhà học tiếng Hàn. Và cũng sẽ làm app.	https://luandai123.github.io/Korean_Beginner/T13Dlg1.2.mp3
+T13	Dlg	1.3	앞으로 계획이 있어요?	a-phư-rô gyê-huê-gi i-sso-yô?	Bạn có kế hoạch tương lai không?	https://luandai123.github.io/Korean_Beginner/T13Dlg1.3.mp3
+T13	Dlg	1.4	네, 내년에 한국에 여행을 가려고 해요!	nê, nê-nyo-nê han-gu-gê yo-hê-ưl ga-ryo-gô hê-yô!	Vâng, năm tới tôi định đi du lịch Hàn Quốc!	https://luandai123.github.io/Korean_Beginner/T13Dlg1.4.mp3
